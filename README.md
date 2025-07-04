@@ -15,7 +15,6 @@ This is the **most critical evidence package** regarding summer vacation ICT req
 
 👉 **Please review this release as a TOP PRIORITY.**
 
-![Priority Banner](https://yourimageurl.com/banner.png)
 
 
 ---
