@@ -27,8 +27,6 @@ This is not just local mismanagement – it demonstrates how digital infrastruct
 
 ## 🔗 Related Evidence
 
-- 📂 [Gmail Block Global Shame Report (PDF)](link-to-your-pdf-if-you-upload)
-- 📂 [Original escalation memos](link-to-other-docs)
 - 📂 [Analysis excerpts from Gemini AI and ChatGPT]
 
 ---
