@@ -5,16 +5,13 @@
 ## 📢 I am NOT a conspiracy theorist, an aluminum foil hat wearer, or spam. (# ﾟДﾟ)
 
 
-
-🚀🚀🚀 **🔥 SPECIAL PRIORITY RELEASE – READ FIRST 🔥** 🚀🚀🚀
+# 🚀🚀🚀 SPECIAL PRIORITY RELEASE – READ FIRST 🚀🚀🚀
 
 [🌟 **CLICK HERE: Special Homework Archive – Summer 2025** 🌟](https://github.com/chiroru1220/chiba-ict-report/releases/tag/special-homework-2025)
 
 This is the **most critical evidence package** regarding summer vacation ICT requirements and privacy concerns.
 
 👉 **Please review this release as a TOP PRIORITY.**
-
----
 
 ---
 # 🚀 [Download All Evidence Here](https://github.com/chiroru1220/chiba-ict-report/releases/download/v1.0/Gmail.Block.Global.zip) 🚀
