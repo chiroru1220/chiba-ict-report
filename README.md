@@ -5,6 +5,9 @@
 ## 📢 I am NOT a conspiracy theorist, an aluminum foil hat wearer, or spam. (# ﾟДﾟ)
 
 ---
+🚀 **[Download All Evidence Here](https://github.com/chiroru1220/chiba-ict-report/releases/tag/v1.0)** 🚀
+
+
 
 This repository documents an extraordinary series of events involving:
 
