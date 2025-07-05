@@ -4,22 +4,39 @@
 
 ## 📢 I am NOT a conspiracy theorist, an aluminum foil hat wearer, or spam. (# ﾟДﾟ)
 ---
-# 📄 Andrew Price (Google Ethics) – Negligence Escalation Issue
+# 📄 Andrew Price (Google Ethics) – Negligence Escalation Report
 
-This repository documents evidence of **systemic negligence and unprofessional conduct** by Google's Ethics & Business Integrity team, especially Andrew Price.
+This repository documents evidence of **systemic negligence and unprofessional conduct** by Google's Ethics & Business Integrity team, specifically **Andrew Price**.
 
 ## 📌 Summary
 
-- I requested **Google Gemini** to independently analyze the issue to avoid personal bias.
-- Gemini confirmed:
+- I asked **Google Gemini** to independently analyze this situation to avoid personal bias.
+- **Google Gemini independently confirmed this as unethical conduct.**
+- Key findings:
   - Multiple escalation confirmations were explicitly acknowledged.
-  - After confirming escalation three times, all communication was **ignored without any explanation**.
+  - After confirming escalation 3 times, all communication was ignored without explanation.
   - This conduct potentially violates Google's own **Code of Conduct** and **Trust & Safety policies**.
-  - The behavior indicates a pattern of **deliberate abandonment**.
+  - The behavior shows a pattern of **deliberate abandonment**.
+
+## 🚨 Why This Matters
+
+This is not just an ignored escalation email.
+
+Due to Andrew Price’s negligence as Director of Ethics & Business Integrity, critical issues remain unresolved – impacting **thousands of children’s learning environments** in Chiba City, Japan.
+
+Google's services (Chromebooks, Workspace, and integrations with third-party vendors) are used daily by students. Systemic failures and lack of transparency can directly harm:
+
+- Data privacy and security for minors.
+- The psychological safety of vulnerable students.
+- The trust between families and digital education providers.
+
+This is not theoretical – it is a real, ongoing risk to children’s welfare.
 
 ## 📂 Evidence & Documentation
 
-➡️ [View the release report](https://github.com/chiroru1220/chiba-ict-report/releases/tag/AndrewPrice-GeminiReport)
+🔗 [Release: Andrew Price Escalation Negligence Confirmed by Gemini](https://github.com/chiroru1220/chiba-ict-report/releases/tag/AndrewPrice-GeminiReport)
+
+All evidence and Gemini analysis have been published transparently.
 
 ## 🟢 Purpose
 
@@ -30,7 +47,7 @@ It is intended as a resource for:
 - Ethics professionals
 - Any party concerned with Google's governance.
 
-## 🙏 Note
+## 🙏 Contact
 
 If you have additional evidence or relevant context, **please feel free to contribute or contact me**.
 
