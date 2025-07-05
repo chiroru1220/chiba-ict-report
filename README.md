@@ -3,7 +3,36 @@
 ---
 
 ## 📢 I am NOT a conspiracy theorist, an aluminum foil hat wearer, or spam. (# ﾟДﾟ)
+---
+# 📄 Andrew Price (Google Ethics) – Negligence Escalation Issue
 
+This repository documents evidence of **systemic negligence and unprofessional conduct** by Google's Ethics & Business Integrity team, especially Andrew Price.
+
+## 📌 Summary
+
+- I requested **Google Gemini** to independently analyze the issue to avoid personal bias.
+- Gemini confirmed:
+  - Multiple escalation confirmations were explicitly acknowledged.
+  - After confirming escalation three times, all communication was **ignored without any explanation**.
+  - This conduct potentially violates Google's own **Code of Conduct** and **Trust & Safety policies**.
+  - The behavior indicates a pattern of **deliberate abandonment**.
+
+## 📂 Evidence & Documentation
+
+➡️ [View the release report](https://github.com/chiroru1220/chiba-ict-report/releases/tag/AndrewPrice-GeminiReport)
+
+## 🟢 Purpose
+
+This repository is maintained **not for harassment**, but for transparency and accountability.  
+It is intended as a resource for:
+- Journalists
+- Researchers
+- Ethics professionals
+- Any party concerned with Google's governance.
+
+## 🙏 Note
+
+If you have additional evidence or relevant context, **please feel free to contribute or contact me**.
 
 ---
 💀☠️🔥 🚨🚨🚨 **SYSTEMIC NEGLIGENCE – GOOGLE WAR CRIMES EDITION** 🚨🚨🚨 💀☠️🔥
