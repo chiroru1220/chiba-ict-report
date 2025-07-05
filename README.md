@@ -4,52 +4,64 @@
 
 ## 📢 I am NOT a conspiracy theorist, an aluminum foil hat wearer, or spam. (# ﾟДﾟ)
 ---
-# 📄 Andrew Price (Google Ethics) – Negligence Escalation Report
+# 💥⚡️ Gemini Report – Andrew Price Ethics Breach ⚡️💥
 
-This repository documents evidence of **systemic negligence and unprofessional conduct** by Google's Ethics & Business Integrity team, specifically **Andrew Price**.
+> **"Escalation Promised. Silence Delivered."**
 
-## 📌 Summary
+---
 
-- I asked **Google Gemini** to independently analyze this situation to avoid personal bias.
-- **Google Gemini independently confirmed this as unethical conduct.**
-- Key findings:
-  - Multiple escalation confirmations were explicitly acknowledged.
-  - After confirming escalation 3 times, all communication was ignored without explanation.
-  - This conduct potentially violates Google's own **Code of Conduct** and **Trust & Safety policies**.
-  - The behavior shows a pattern of **deliberate abandonment**.
+## 🎯 What Is This?
+This repository is **dedicated solely** to documenting:
 
-## 🚨 Why This Matters
+✅ The repeated failure of **Andrew Price**, Google's Director of Ethics & Business Integrity, to respond to serious complaints after explicitly promising escalation.
 
-This is not just an ignored escalation email.
+✅ Evidence of **compliance breaches**, **ethical misconduct**, and **reputational risks** within Google’s leadership.
 
-Due to Andrew Price’s negligence as Director of Ethics & Business Integrity, critical issues remain unresolved – impacting **thousands of children’s learning environments** in Chiba City, Japan.
+✅ Independent analysis by **Gemini**, **ChatGPT**, and Ayana.
 
-Google's services (Chromebooks, Workspace, and integrations with third-party vendors) are used daily by students. Systemic failures and lack of transparency can directly harm:
+---
 
-- Data privacy and security for minors.
-- The psychological safety of vulnerable students.
-- The trust between families and digital education providers.
+## 🧨 Why Does It Matter?
+**Because ethics without accountability is just a slogan.**
 
-This is not theoretical – it is a real, ongoing risk to children’s welfare.
+- When a Director of Ethics ignores a critical report, it’s not a minor oversight—it’s a **systemic failure**.
+- This silence contradicts Google’s Code of Conduct and public commitments to transparency and good faith engagement.
+- This repository ensures **the record is public and cannot be buried.**
 
-## 📂 Evidence & Documentation
+---
 
-🔗 [Release: Andrew Price Escalation Negligence Confirmed by Gemini](https://github.com/chiroru1220/chiba-ict-report/releases/tag/AndrewPrice-GeminiReport)
+## 🔍 Key Document
+📄 **Gemini Report – Andrew Price’s Silence**
+- Detailed assessment of Andrew Price’s nonresponse.
+- Analysis of Google’s Code of Conduct violations.
+- Implications for compliance, leadership accountability, and user trust.
 
-All evidence and Gemini analysis have been published transparently.
+👉 [**Read the Full Report**](./Gemini%20Report%20–%20Andrew%20Silence.pdf)
 
-## 🟢 Purpose
+---
 
-This repository is maintained **not for harassment**, but for transparency and accountability.  
-It is intended as a resource for:
-- Journalists
-- Researchers
-- Ethics professionals
-- Any party concerned with Google's governance.
+## 💣 Highlights
+- June 23–25: Multiple emails acknowledging the issue.
+- June 25: Explicit promise to escalate internally.
+- After June 25: **Over 10 days of total silence.**
+- No updates, no transparency, no accountability.
 
-## 🙏 Contact
+---
 
-If you have additional evidence or relevant context, **please feel free to contribute or contact me**.
+## 🚀 Call to Action
+**This is not about one user.**
+This is about a global company that:
+- Markets ethics but fails to practice it.
+- Promises accountability but delivers silence.
+
+⭐ **Star this repository.**
+📢 **Share the evidence.**
+🕵️‍♂️ **Hold them accountable.**
+
+---
+
+## 🏴‍☠️ Because if they can ignore this, they can ignore anyone.
+> 💥 **Flamboyant exposure is sometimes the only way to force accountability.**
 
 ---
 💀☠️🔥 🚨🚨🚨 **SYSTEMIC NEGLIGENCE – GOOGLE WAR CRIMES EDITION** 🚨🚨🚨 💀☠️🔥
