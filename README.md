@@ -5,6 +5,14 @@
 ## 📢 I am NOT a conspiracy theorist, an aluminum foil hat wearer, or spam. (# ﾟДﾟ)
 
 
+🚨🚨🚨 **NEW EVIDENCE ARCHIVE RELEASE** 🚨🚨🚨
+
+📂 [Evidence Archive – Andrew Price Correspondence](https://github.com/chiroru1220/chiba-ict-report/releases/tag/andrew-price-response)
+
+This release contains direct correspondence confirming escalation and the subsequent systemic negligence by Google.
+
+⚠️ **Please review this document to understand the extent of the issue.**
+
 
 
 # 🚀🚀🚀 SPECIAL PRIORITY RELEASE – READ FIRST 🚀🚀🚀
