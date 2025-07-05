@@ -4,64 +4,61 @@
 
 ## 📢 I am NOT a conspiracy theorist, an aluminum foil hat wearer, or spam. (# ﾟДﾟ)
 ---
+
 # 💥⚡️ Gemini Report – Andrew Price Ethics Breach ⚡️💥
 
 > **"Escalation Promised. Silence Delivered."**
 
----
 
 ## 🎯 What Is This?
-This repository is **dedicated solely** to documenting:
-
-✅ The repeated failure of **Andrew Price**, Google's Director of Ethics & Business Integrity, to respond to serious complaints after explicitly promising escalation.
-
-✅ Evidence of **compliance breaches**, **ethical misconduct**, and **reputational risks** within Google’s leadership.
-
+This repository **documents the ethics breakdown inside Google**:
+✅ The total nonresponse of **Andrew Price**, Director of Ethics & Business Integrity.
+✅ Clear evidence of **compliance breaches** and **leadership accountability failures**.
 ✅ Independent analysis by **Gemini**, **ChatGPT**, and Ayana.
 
 ---
 
 ## 🧨 Why Does It Matter?
-**Because ethics without accountability is just a slogan.**
+**Because ethics without accountability is worthless.**
 
-- When a Director of Ethics ignores a critical report, it’s not a minor oversight—it’s a **systemic failure**.
-- This silence contradicts Google’s Code of Conduct and public commitments to transparency and good faith engagement.
-- This repository ensures **the record is public and cannot be buried.**
+- A Director of Ethics cannot just vanish after promising action.
+- This conduct contradicts Google’s Code of Conduct, trust commitments, and public values.
+- This repository ensures **the record is public forever**.
 
 ---
 
-## 🔍 Key Document
-📄 **Gemini Report – Andrew Price’s Silence**
-- Detailed assessment of Andrew Price’s nonresponse.
-- Analysis of Google’s Code of Conduct violations.
-- Implications for compliance, leadership accountability, and user trust.
+## 📢🔥 READ THE FULL REPORT – NO EXCUSES 🔥📢
+👉👉👉  
+# 🟥 [**DOWNLOAD THE FULL GEMINI REPORT HERE**](https://github.com/chiroru1220/chiba-ict-report/releases/tag/andrew-gemini-report) 🟥
+👈👈👈  
 
-👉 [**Read the Full Report**](./Gemini%20Report%20–%20Andrew%20Silence.pdf)
+**⬆️ CLICK THE GIANT RED LINK ABOVE TO SEE THE PROOF ⬆️**
 
 ---
 
 ## 💣 Highlights
-- June 23–25: Multiple emails acknowledging the issue.
-- June 25: Explicit promise to escalate internally.
-- After June 25: **Over 10 days of total silence.**
-- No updates, no transparency, no accountability.
+- **June 23–25**: Multiple emails acknowledging the issue.
+- **June 25**: Explicit promise to escalate internally.
+- **After June 25**: **Over 10 days of total silence.**
+- No updates. No transparency. No accountability.
 
 ---
 
 ## 🚀 Call to Action
-**This is not about one user.**
-This is about a global company that:
-- Markets ethics but fails to practice it.
-- Promises accountability but delivers silence.
+This is **not** about a single complaint.
+This is about a corporation that:
+- Markets ethics but **fails to practice it.**
+- Promises accountability but **delivers silence.**
 
-⭐ **Star this repository.**
-📢 **Share the evidence.**
-🕵️‍♂️ **Hold them accountable.**
+⭐ **Star this repository**
+📢 **Share the evidence everywhere**
+🕵️‍♂️ **Hold them accountable**
 
 ---
 
 ## 🏴‍☠️ Because if they can ignore this, they can ignore anyone.
 > 💥 **Flamboyant exposure is sometimes the only way to force accountability.**
+
 
 ---
 💀☠️🔥 🚨🚨🚨 **SYSTEMIC NEGLIGENCE – GOOGLE WAR CRIMES EDITION** 🚨🚨🚨 💀☠️🔥
