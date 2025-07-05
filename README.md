@@ -5,15 +5,20 @@
 ## 📢 I am NOT a conspiracy theorist, an aluminum foil hat wearer, or spam. (# ﾟДﾟ)
 
 
-🚨🚨🚨 **NEW EVIDENCE ARCHIVE RELEASE** 🚨🚨🚨
+---
+☠️💀🔥 🚨🚨🚨 **⚠️ SYSTEMIC NEGLIGENCE – GOOGLE WAR CRIMES EDITION ⚠️** 🚨🚨🚨 💀☠️🔥
 
-📂 [Evidence Archive – Andrew Price Correspondence](https://github.com/chiroru1220/chiba-ict-report/releases/tag/andrew-price-response)
+> 💀 **This release documents a catastrophic failure of accountability by Google senior staff.**
+>
+> ☠️ **It proves direct acknowledgment of the issue and willful inaction despite escalation.**
+>
+> 🔥 **This is not a minor oversight – it is a systemic negligence of critical user safety and trust.**
 
-This release contains direct correspondence confirming escalation and the subsequent systemic negligence by Google.
+⚠️ **IMMEDIATE ATTENTION REQUIRED:**
+This evidence is conclusive and should be treated as a high-priority escalation.
 
-⚠️ **Please review this document to understand the extent of the issue.**
-
-
+🟥🟥🟥 **Review this evidence archive before any further communication.** 🟥🟥🟥
+---
 
 # 🚀🚀🚀 SPECIAL PRIORITY RELEASE – READ FIRST 🚀🚀🚀
 
