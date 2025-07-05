@@ -6,19 +6,15 @@
 
 
 ---
-☠️💀🔥 🚨🚨🚨 **⚠️ SYSTEMIC NEGLIGENCE – GOOGLE WAR CRIMES EDITION ⚠️** 🚨🚨🚨 💀☠️🔥
+💀☠️🔥 🚨🚨🚨 **SYSTEMIC NEGLIGENCE – GOOGLE WAR CRIMES EDITION** 🚨🚨🚨 💀☠️🔥
 
-💀 **This release documents a catastrophic failure of accountability by Google senior staff.**
+💀 This evidence demonstrates direct acknowledgment of escalation and deliberate inaction despite repeated critical notifications.
 
-☠️ **It proves direct acknowledgment of the issue and willful inaction despite escalation.**
+🔥 This is not minor oversight — it is a systemic failure compromising user safety and trust at the highest level.
 
-🔥 **This is not a minor oversight – it is a systemic negligence of critical user safety and trust.**
+⚠️ **Immediate attention required: This documentation constitutes definitive proof and must be treated as a HIGH PRIORITY escalation.**
 
-⚠️ **IMMEDIATE ATTENTION REQUIRED:**
-This evidence is conclusive and should be treated as a high-priority escalation.
-
-🟥🟥🟥 **[CLICK HERE TO REVIEW THE EVIDENCE ARCHIVE](https://github.com/chiroru1220/chiba-ict-report/releases/tag/andrew-price-response)** 🟥🟥🟥
-
+[🟥🟥🟥 CLICK HERE TO VIEW THE EVIDENCE ARCHIVE 🟥🟥🟥](https://github.com/chiroru1220/chiba-ict-report/releases/tag/andrew-price-response)
 ---
 
 # 🚀🚀🚀 SPECIAL PRIORITY RELEASE – READ FIRST 🚀🚀🚀
